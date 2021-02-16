@@ -6,7 +6,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: Global
   description: ''
   robots: []
   extra:
