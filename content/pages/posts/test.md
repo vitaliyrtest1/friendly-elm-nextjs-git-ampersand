@@ -10,7 +10,11 @@ seo:
   description: |
     Another
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/10.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 ---
