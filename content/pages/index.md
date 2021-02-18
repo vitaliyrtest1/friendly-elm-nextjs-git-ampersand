@@ -39,9 +39,5 @@ seo:
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
-    - name: 'twitter:title'
-      value: asdsa
-      keyName: name
-      relativeUrl: false
 layout: home
 ---
