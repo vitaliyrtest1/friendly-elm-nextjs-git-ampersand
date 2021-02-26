@@ -10,6 +10,13 @@ intro_actions:
   - label: Learn More
     url: /about
     style: primary
+  - label: lorem-ipsum
+    url: lorem-ipsum
+    style: link
+    icon_class: dev
+    new_window: false
+    no_follow: false
+    type: action
   - label: Contact
     url: /contact
     style: secondary
