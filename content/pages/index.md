@@ -20,13 +20,6 @@ intro_actions:
   - label: Contact
     url: /contact
     style: secondary
-  - label: lorem-ipsum
-    url: lorem-ipsum
-    style: link
-    icon_class: dev
-    new_window: false
-    no_follow: false
-    type: action
 has_more_link: true
 more_link_text: Read more
 seo:
